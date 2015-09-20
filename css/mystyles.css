@@ -1,0 +1,16 @@
+#people-photo {
+  display:block;
+  max-width: 120px;
+  margin: 10px auto 10px;
+  border-radius: 100%;
+  padding-right: 10px;
+  float: left;
+}
+
+#cat-photo {
+  display:block;
+  max-width: 120px;
+  margin: 10px auto 10px;
+  padding-right: 10px;
+  float: left;
+}
