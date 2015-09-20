@@ -17,7 +17,7 @@
 
 #eyes-photo {
   display:block;
-  max-width: 120px;
+  max-width: 30%;
   margin: 10px auto 10px;
   padding-right: 10px;
   float: right;
@@ -30,8 +30,8 @@ h1, h2, h3, h4, h5, h6   {
   font-family: 'Nothing You Could Do';
   font-weight: bold;
   text-decoration: none;
-  color: #ccff33; 
-
+  color: #E0E066; 
+/*#D8D880*/
 }
 
 body {
@@ -40,11 +40,6 @@ body {
   
 }
 
-#eyes {
-  background: #000;
-  float: right
-  
-}
 
 .topnav {
   border-style: solid;
@@ -54,11 +49,11 @@ body {
 
 
 .panel {
- 
-  background-color: #444;
-  
+  background-color: #9B8E73;
+}
 
-  
+#panelHeading {
+  color: #520000;
 }
 
 
