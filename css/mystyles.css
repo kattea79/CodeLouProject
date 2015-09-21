@@ -1,7 +1,7 @@
 #people-photo {
   display:block;
   max-width: 120px;
-  margin: 10px auto 10px;
+  margin: 30px auto 10px;
   border-radius: 100%;
   padding-right: 10px;
   float: left;
@@ -18,7 +18,7 @@
 #eyes-photo {
   display:block;
   max-width: 30%;
-  margin: 10px auto 10px;
+  margin: 30px auto 10px;
   padding-right: 10px;
   float: right;
 }
@@ -31,7 +31,6 @@ h1, h2, h3, h4, h5, h6   {
   font-weight: bold;
   text-decoration: none;
   color: #E0E066; 
-/*#D8D880*/
 }
 
 body {
@@ -54,6 +53,34 @@ body {
 
 #panelHeading {
   color: #520000;
+}
+
+#panelHeadingH4 {
+  color: #520000;
+  margin: 30px 0 0;
+}
+
+
+table, th, td {
+   border: 1px solid black;
+   background-color: #9B8E73;
+   color: #E0E066;
+}
+
+#bystanderStats {
+  text-align:center; 
+  margin-left:auto; 
+  margin-right:auto; 
+}
+
+th {
+   background-color: #8c8068;
+   color: #000;
+
+}
+
+td {
+   background-color: #A59981;
 }
 
 
