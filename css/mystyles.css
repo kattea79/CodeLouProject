@@ -35,17 +35,13 @@ h1, h2, h3, h4, h5, h6   {
 
 body {
   background: #000;
-
-  
 }
-
 
 .topnav {
   border-style: solid;
   border-bottom-color: #af0000;
   border-bottom-width: 1px;
 }
-
 
 .panel {
   background-color: #9B8E73;
@@ -83,6 +79,10 @@ td {
    background-color: #A59981;
 }
 
+.sidenote {
+  font-style: italic;
+  font-size: .85em;
+}
 
 /******************** Fonts
 font-family: 'Archivo Narrow', sans-serif;
