@@ -23,6 +23,14 @@
   float: right;
 }
 
+#furcat {
+  display: block;
+  max-width: 120px;
+  margin: 0px auto 10px;
+  padding-right: 10px;
+  float: left;
+}
+
 /**************************************
 GENERAL
 ***************************************/
@@ -83,6 +91,8 @@ td {
   font-style: italic;
   font-size: .85em;
 }
+
+
 
 /******************** Fonts
 font-family: 'Archivo Narrow', sans-serif;
